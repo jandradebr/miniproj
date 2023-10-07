@@ -1,3 +1,7 @@
+'''
+This is a time math challenge script.
+'''
+
 from datetime import datetime
 from random import randint
 
