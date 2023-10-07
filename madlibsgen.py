@@ -1,3 +1,7 @@
+'''
+This is a madlibs generator, by having the story in story.txt with placeholders between brackets <>.
+'''
+
 from re import findall, sub
 
 with open('./story.txt') as file:
