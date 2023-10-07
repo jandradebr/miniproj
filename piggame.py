@@ -1,3 +1,8 @@
+'''
+This is a Pig Game python script.
+More details to be added.
+'''
+
 from random import randint
 
 
